@@ -63,6 +63,6 @@ Some of the programming languages that I know and love:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ekozf&show_icons=true&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekozf&langs_count=8" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekozf&layout=donut-vertical" />
   </a>
 </div>
